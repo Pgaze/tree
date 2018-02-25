@@ -1,6 +1,0 @@
-tree/core/Node.class
-tree/dao/TreeDao.class
-tree/control/TreeController.class
-tree/control/NodeController.class
-tree/core/Tree.class
-tree/control/Application.class
