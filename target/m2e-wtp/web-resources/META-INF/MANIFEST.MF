@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: tree
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: maxime
+Implementation-Vendor-Id: fr.janvier
+Build-Jdk: 1.8.0_151
+Implementation-URL: http://projects.spring.io/spring-boot/tree/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
